@@ -1,4 +1,5 @@
 import './App.css'
+import puppyList from './data.js'
 
 function App() {
 
