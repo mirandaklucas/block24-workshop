@@ -1,0 +1,12 @@
+/* don't feel super strong with css styling/flexbox 
+ */
+.puppyNames {
+    border: 10px;
+    background-color: rgb(115, 150, 180);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.selectedPuppy {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: dashed;
+}
